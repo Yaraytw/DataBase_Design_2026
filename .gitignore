@@ -1,5 +1,56 @@
-.venv/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[codz]
+*$py.class
+*.so
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.envrc
+env.bak/
+venv.bak/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
+
+# Test and coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.cache/
+
+# Python tools
+.ipynb_checkpoints/
+.pytype/
+.pyre/
+.dmypy.json
+.pybuilder/
+.pytest_cache/
+tempCodeRunnerFile.py
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.streamlit/secrets.toml
+.pypirc
+
+# Crawler generated images
 output/images/*
 !output/images/.gitkeep
