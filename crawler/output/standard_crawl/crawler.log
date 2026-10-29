@@ -1,0 +1,393 @@
+2026-10-29 15:55:40,869 [INFO] [1/32] 正在處理：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80
+2026-10-29 15:55:41,917 [INFO] 成功：觀音區 - 維基百科，自由的百科全書 | 圖片：16
+2026-10-29 15:55:42,919 [INFO] [2/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/district/50
+2026-10-29 15:55:43,278 [WARNING] 失敗：https://travel.tycg.gov.tw/zh-tw/travel/district/50 | HTTPError: 404 Client Error: Not Found for url: https://travel.tycg.gov.tw/zh-tw/notfound?aspxerrorpath=/zh-tw/travel/district/50
+2026-10-29 15:55:44,278 [INFO] [3/32] 正在處理：https://smiletaiwan.cw.com.tw/article/6889
+2026-10-29 15:55:45,054 [INFO] 成功：散步桃園觀音的自然愜意，在崙坪文化地景園區遇見失落遺跡、龜殼劇場還有客家食堂 - 我的旅圖中 - 微笑台灣 - 用深度旅遊體驗鄉鎮魅力 | 圖片：12
+2026-10-29 15:55:46,055 [INFO] [4/32] 正在處理：https://romantichakka.com/hakkatours/TourExpert?a=1202&fromlist=1&id=1624
+2026-10-29 15:55:46,629 [INFO] 成功：9個觀音＆新屋景點推薦・全台唯一的客庄海洋聚落，跟著海客漁夫體驗石滬的一日漫遊-客庄小旅行 | 圖片：24
+2026-10-29 15:55:47,630 [INFO] [5/32] 正在處理：https://natsuphil.com/taoyuan/baisha-cape/
+2026-10-29 15:55:48,628 [INFO] 成功：桃園觀音景點〡白沙岬燈塔〡百年日治時代燈塔, 希臘鐘塔熱門打卡景點, 超Q台灣縮小版燈塔 @小菲親子玩樂生活 | 圖片：44
+2026-10-29 15:55:49,628 [INFO] [6/32] 正在處理：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10
+2026-10-29 15:55:49,908 [WARNING] 失敗：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10 | SSLError: HTTPSConnectionPool(host='www.bip.gov.tw', port=443): Max retries exceeded with url: /iphw/kuangin/index.do?id=10 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 15:55:50,909 [INFO] [7/32] 正在處理：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
+2026-10-29 15:55:51,198 [WARNING] 失敗：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772 | SSLError: HTTPSConnectionPool(host='www.guanyin-hro.tycg.gov.tw', port=443): Max retries exceeded with url: /cp.aspx?n=13772 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 15:55:52,198 [INFO] [8/32] 正在處理：https://www.ganquan-temple.org.tw/
+2026-10-29 15:55:54,014 [INFO] 成功：甘泉寺 | 圖片：11
+2026-10-29 15:55:55,014 [INFO] [9/32] 正在處理：https://vocus.cc/article/695b08a8fd897800017a25c9
+2026-10-29 15:55:55,751 [INFO] 成功：【桃園石觀音甘泉寺一日遊】清乾隆古剎 × 甘泉傳奇 × 三教合一的石觀音聖地｜悠遊時光 | 圖片：14
+2026-10-29 15:55:56,752 [INFO] [10/32] 正在處理：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 15:55:57,780 [WARNING] 失敗：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82 | HTTPError: 404 Client Error: Not Found for url: https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 15:55:58,781 [INFO] [11/32] 正在處理：https://travel.tycg.gov.tw/ja/travel/attraction/1045
+2026-10-29 15:55:59,665 [INFO] 成功：白沙岬灯塔(灯台)(白沙岬燈塔) | 圖片：0
+2026-10-29 15:56:00,666 [INFO] [12/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/5205
+2026-10-29 15:56:01,246 [INFO] 成功：2025桃園蓮花季 | 圖片：0
+2026-10-29 15:56:02,247 [INFO] [13/32] 正在處理：https://ezgo.ardswc.gov.tw/zh-tw/leisure-area/1529/
+2026-10-29 15:56:03,531 [INFO] 成功：蓮花園休閒農業區－農業易遊網 | 圖片：22
+2026-10-29 15:56:04,531 [INFO] [14/32] 正在處理：https://duringmyjourney.com/treegarden/
+2026-10-29 15:56:05,382 [INFO] 成功：《桃園觀音》樹園子 遠離塵囂的日式禪風景觀餐廳、以無菜單料理感受四季饗宴 – 我的旅圖中 during my journey | 圖片：40
+2026-10-29 15:56:06,383 [INFO] [15/32] 正在處理：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%9D%91%E6%BA%AA
+2026-10-29 15:56:06,660 [INFO] 成功：觀音坑溪 - 维基百科，自由的百科全书 | 圖片：6
+2026-10-29 15:56:07,661 [INFO] [16/32] 正在處理：https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A0%80%E6%BA%AA
+2026-10-29 15:56:07,913 [INFO] 成功：大堀溪 - 维基百科，自由的百科全书 | 圖片：1
+2026-10-29 15:56:08,915 [INFO] [17/32] 正在處理：https://romantichakka.com/explore/HaFood?a=1955&id=3209
+2026-10-29 15:56:09,376 [INFO] 成功：來來牛家莊-客庄小旅行 | 圖片：0
+2026-10-29 15:56:10,377 [INFO] [18/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1442
+2026-10-29 15:56:10,645 [INFO] 成功：草漯沙丘地質公園 | 圖片：0
+2026-10-29 15:56:11,646 [INFO] [19/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1454
+2026-10-29 15:56:11,890 [INFO] 成功：觀新藻礁生態系野生動物保護區 | 圖片：0
+2026-10-29 15:56:12,890 [INFO] [20/32] 正在處理：https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BD%AD%E7%99%BC%E9%9B%BB%E5%BB%A0
+2026-10-29 15:56:13,444 [INFO] 成功：大潭發電廠 - 维基百科，自由的百科全书 | 圖片：6
+2026-10-29 15:56:14,445 [INFO] [21/32] 正在處理：https://supertaste.tvbs.com.tw/travel/348994
+2026-10-29 15:56:14,798 [INFO] 成功：超過２萬朵「純白百合花海」50元拍爆！順遊日系樹林隧道、超低調麵包工廠 | 食尚玩家 | 圖片：16
+2026-10-29 15:56:15,799 [INFO] [22/32] 正在處理：https://wonderfood.pixnet.net/blog/posts/8229181678
+2026-10-29 15:56:16,161 [INFO] 成功：【桃園觀音白千層綠韻大道】IG熱門打卡文青風秘境 ★ 筆直的綠蔭大道 | 美食人生 | 美食情報分享 | 痞客邦 | PIXNET | 圖片：18
+2026-10-29 15:56:17,162 [INFO] [23/32] 正在處理：https://tw.news.yahoo.com/%E5%B7%A8%E5%A4%A7%E9%A3%9B%E6%A9%9F%E7%95%B6%E8%83%8C%E6%99%AF-%E5%BB%A2%E5%A2%9F%E8%AE%8A%E8%BA%AB%E7%86%B1%E9%96%80%E6%89%93%E5%8D%A1%E9%BB%9E-083000098.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMue1ozVAbpfw6hSS2pCbhjuzTu6me6bcpMl0s-LHtA2GRA3aRWmhljRIGs7l4-uM64T6h_nSE6aMW7_PKYyXpGeJGmvAgVTj2YBaEVL9EHUdHeBk4EA-goYi6KfIkr7LtpgkElmfQasy8weFUaMOL5LXX1ef3DVxE-pHWTtv9b_
+2026-10-29 15:56:18,062 [INFO] 成功：巨大飛機當背景！廢墟變身熱門打卡點 | 圖片：10
+2026-10-29 15:56:19,159 [INFO] [24/32] 正在處理：https://www.century.com.tw/tw/about/3/
+2026-10-29 15:56:19,759 [INFO] 成功：世紀鋼構 | 圖片：3
+2026-10-29 15:56:20,760 [INFO] [25/32] 正在處理：https://www.waytogo.cc/topic/4157
+2026-10-29 15:56:21,854 [INFO] 成功：中華民國領海基點 - 旅聯網 | 圖片：15
+2026-10-29 15:56:22,855 [INFO] [26/32] 正在處理：https://youtu.be/2hbu5n9VLZY?si=JC29M3MbFRsFELoU
+2026-10-29 15:56:24,196 [INFO] 成功：桃園觀音區探訪｜台版撒哈拉沙漠和百年燈塔藏在西海岸｜草漯沙丘・白沙岬燈塔・觀音飛機場【IROIRO】 | 圖片：0
+2026-10-29 15:56:25,196 [INFO] [27/32] 正在處理：https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i
+2026-10-29 15:56:26,968 [INFO] 成功：桃園觀音一日遊｜百合花海＋綠色隧道＋百年燈塔 #旅行 #景點 #賞花 | 圖片：0
+2026-10-29 15:56:27,969 [INFO] [28/32] 正在處理：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957
+2026-10-29 15:56:28,244 [WARNING] 失敗：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957 | SSLError: HTTPSConnectionPool(host='tcmb.culture.tw', port=443): Max retries exceeded with url: /zh-tw/detail?indexCode=Culture_Route&id=593957 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 15:56:29,245 [INFO] [29/32] 正在處理：https://vocus.cc/article/6692021dfd89780001850bb9
+2026-10-29 15:56:30,014 [INFO] 成功：後人飲水，莫忘前人犧牲－1958年石門水庫大移民(本文曾刊登於聚傳媒樂風專欄)｜樂風的民藝筆記的沙龍 | 圖片：2
+2026-10-29 15:56:31,015 [INFO] [30/32] 正在處理：https://youtu.be/AWP_v5I0zYA?si=0RkOhrRUMGU9zJfu
+2026-10-29 15:56:31,894 [INFO] 成功：歷史那一刻 石門水庫遷村故事｜華視新聞雜誌｜精選 | 圖片：0
+2026-10-29 15:56:32,894 [INFO] [31/32] 正在處理：https://ihc.cip.gov.tw/EJournal/EJournalCat/737
+2026-10-29 15:56:33,229 [INFO] 成功：原住民族文獻 | 圖片：12
+2026-10-29 15:56:34,230 [INFO] [32/32] 正在處理：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82)
+2026-10-29 15:56:34,994 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | 圖片：8
+2026-10-29 16:05:26,591 [INFO] [1/32] 正在處理：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80
+2026-10-29 16:05:32,753 [INFO] 成功：觀音區 - 維基百科，自由的百科全書 | 找到圖片：16 | 下載成功：16 | 下載失敗：0
+2026-10-29 16:05:33,757 [INFO] [2/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/district/50
+2026-10-29 16:05:34,049 [INFO] 成功：分區介紹 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:05:35,050 [INFO] [3/32] 正在處理：https://smiletaiwan.cw.com.tw/article/6889
+2026-10-29 16:05:38,937 [INFO] 成功：散步桃園觀音的自然愜意，在崙坪文化地景園區遇見失落遺跡、龜殼劇場還有客家食堂 - 我的旅圖中 - 微笑台灣 - 用深度旅遊體驗鄉鎮魅力 | 找到圖片：12 | 下載成功：12 | 下載失敗：0
+2026-10-29 16:05:39,937 [INFO] [4/32] 正在處理：https://romantichakka.com/hakkatours/TourExpert?a=1202&fromlist=1&id=1624
+2026-10-29 16:05:46,696 [INFO] 成功：9個觀音＆新屋景點推薦・全台唯一的客庄海洋聚落，跟著海客漁夫體驗石滬的一日漫遊-客庄小旅行 | 找到圖片：24 | 下載成功：24 | 下載失敗：0
+2026-10-29 16:05:47,697 [INFO] [5/32] 正在處理：https://natsuphil.com/taoyuan/baisha-cape/
+2026-10-29 16:06:03,368 [WARNING] 圖片下載失敗：https://natsuphil.com/wp-content/uploads/2025/04/WP-封面-800p.jpg | UnicodeEncodeError: 'latin-1' codec can't encode characters in position 52-53: ordinal not in range(256)
+2026-10-29 16:06:04,062 [WARNING] 圖片下載失敗：https://natsuphil.com/wp-content/uploads/2024/10/WP-封面-800p-6.jpg | UnicodeEncodeError: 'latin-1' codec can't encode characters in position 52-53: ordinal not in range(256)
+2026-10-29 16:06:07,246 [INFO] 成功：桃園觀音景點〡白沙岬燈塔〡百年日治時代燈塔, 希臘鐘塔熱門打卡景點, 超Q台灣縮小版燈塔 @小菲親子玩樂生活 | 找到圖片：44 | 下載成功：42 | 下載失敗：2
+2026-10-29 16:06:08,248 [INFO] [6/32] 正在處理：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10
+2026-10-29 16:06:08,544 [WARNING] 失敗：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10 | SSLError: HTTPSConnectionPool(host='www.bip.gov.tw', port=443): Max retries exceeded with url: /iphw/kuangin/index.do?id=10 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:06:09,544 [INFO] [7/32] 正在處理：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
+2026-10-29 16:06:09,812 [WARNING] 失敗：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772 | SSLError: HTTPSConnectionPool(host='www.guanyin-hro.tycg.gov.tw', port=443): Max retries exceeded with url: /cp.aspx?n=13772 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:06:10,813 [INFO] [8/32] 正在處理：https://www.ganquan-temple.org.tw/
+2026-10-29 16:06:17,186 [INFO] 成功：甘泉寺 | 找到圖片：11 | 下載成功：11 | 下載失敗：0
+2026-10-29 16:06:18,187 [INFO] [9/32] 正在處理：https://vocus.cc/article/695b08a8fd897800017a25c9
+2026-10-29 16:06:22,178 [INFO] 成功：【桃園石觀音甘泉寺一日遊】清乾隆古剎 × 甘泉傳奇 × 三教合一的石觀音聖地｜悠遊時光 | 找到圖片：14 | 下載成功：14 | 下載失敗：0
+2026-10-29 16:06:23,179 [INFO] [10/32] 正在處理：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:06:23,712 [WARNING] 失敗：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82 | HTTPError: 404 Client Error: Not Found for url: https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:06:24,713 [INFO] [11/32] 正在處理：https://travel.tycg.gov.tw/ja/travel/attraction/1045
+2026-10-29 16:06:25,714 [INFO] 成功：白沙岬灯塔(灯台)(白沙岬燈塔) | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:06:26,714 [INFO] [12/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/5205
+2026-10-29 16:06:27,543 [INFO] 成功：2025桃園蓮花季 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:06:28,544 [INFO] [13/32] 正在處理：https://ezgo.ardswc.gov.tw/zh-tw/leisure-area/1529/
+2026-10-29 16:06:40,146 [INFO] 成功：蓮花園休閒農業區－農業易遊網 | 找到圖片：22 | 下載成功：22 | 下載失敗：0
+2026-10-29 16:06:41,146 [INFO] [14/32] 正在處理：https://duringmyjourney.com/treegarden/
+2026-10-29 16:06:58,062 [INFO] 成功：《桃園觀音》樹園子 遠離塵囂的日式禪風景觀餐廳、以無菜單料理感受四季饗宴 – 我的旅圖中 during my journey | 找到圖片：40 | 下載成功：40 | 下載失敗：0
+2026-10-29 16:06:59,063 [INFO] [15/32] 正在處理：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%9D%91%E6%BA%AA
+2026-10-29 16:07:01,980 [INFO] 成功：觀音坑溪 - 维基百科，自由的百科全书 | 找到圖片：6 | 下載成功：6 | 下載失敗：0
+2026-10-29 16:07:02,981 [INFO] [16/32] 正在處理：https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A0%80%E6%BA%AA
+2026-10-29 16:07:23,185 [WARNING] 圖片下載失敗：https://maps.wikimedia.org/img/osm-intl,a,a,a,250x200.png?lang=zh&domain=zh.wikipedia.org&title=%E5%A4%A7%E5%A0%80%E6%BA%AA&revid=85607001&groups=_b39eee3035ef976a286cd55055d35a4bc0fc90a0&parser=legacy | ReadTimeout: HTTPSConnectionPool(host='maps.wikimedia.org', port=443): Read timed out. (read timeout=20)
+2026-10-29 16:07:23,386 [INFO] 成功：大堀溪 - 维基百科，自由的百科全书 | 找到圖片：1 | 下載成功：0 | 下載失敗：1
+2026-10-29 16:07:24,387 [INFO] [17/32] 正在處理：https://romantichakka.com/explore/HaFood?a=1955&id=3209
+2026-10-29 16:07:40,336 [INFO] 成功：來來牛家莊-客庄小旅行 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:07:41,336 [INFO] [18/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1442
+2026-10-29 16:07:41,555 [INFO] 成功：草漯沙丘地質公園 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:07:42,555 [INFO] [19/32] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1454
+2026-10-29 16:07:42,941 [INFO] 成功：觀新藻礁生態系野生動物保護區 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:07:43,942 [INFO] [20/32] 正在處理：https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BD%AD%E7%99%BC%E9%9B%BB%E5%BB%A0
+2026-10-29 16:07:46,603 [INFO] 成功：大潭發電廠 - 维基百科，自由的百科全书 | 找到圖片：6 | 下載成功：6 | 下載失敗：0
+2026-10-29 16:07:47,604 [INFO] [21/32] 正在處理：https://supertaste.tvbs.com.tw/travel/348994
+2026-10-29 16:07:51,715 [INFO] 成功：超過２萬朵「純白百合花海」50元拍爆！順遊日系樹林隧道、超低調麵包工廠 | 食尚玩家 | 找到圖片：16 | 下載成功：16 | 下載失敗：0
+2026-10-29 16:07:52,716 [INFO] [22/32] 正在處理：https://wonderfood.pixnet.net/blog/posts/8229181678
+2026-10-29 16:08:01,686 [INFO] 成功：【桃園觀音白千層綠韻大道】IG熱門打卡文青風秘境 ★ 筆直的綠蔭大道 | 美食人生 | 美食情報分享 | 痞客邦 | PIXNET | 找到圖片：18 | 下載成功：18 | 下載失敗：0
+2026-10-29 16:08:02,686 [INFO] [23/32] 正在處理：https://tw.news.yahoo.com/%E5%B7%A8%E5%A4%A7%E9%A3%9B%E6%A9%9F%E7%95%B6%E8%83%8C%E6%99%AF-%E5%BB%A2%E5%A2%9F%E8%AE%8A%E8%BA%AB%E7%86%B1%E9%96%80%E6%89%93%E5%8D%A1%E9%BB%9E-083000098.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMue1ozVAbpfw6hSS2pCbhjuzTu6me6bcpMl0s-LHtA2GRA3aRWmhljRIGs7l4-uM64T6h_nSE6aMW7_PKYyXpGeJGmvAgVTj2YBaEVL9EHUdHeBk4EA-goYi6KfIkr7LtpgkElmfQasy8weFUaMOL5LXX1ef3DVxE-pHWTtv9b_
+2026-10-29 16:08:06,220 [INFO] 成功：巨大飛機當背景！廢墟變身熱門打卡點 | 找到圖片：10 | 下載成功：10 | 下載失敗：0
+2026-10-29 16:08:07,221 [INFO] [24/32] 正在處理：https://www.century.com.tw/tw/about/3/
+2026-10-29 16:08:09,091 [INFO] 成功：世紀鋼構 | 找到圖片：3 | 下載成功：3 | 下載失敗：0
+2026-10-29 16:08:10,092 [INFO] [25/32] 正在處理：https://www.waytogo.cc/topic/4157
+2026-10-29 16:08:11,510 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/logo.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/logo.png
+2026-10-29 16:08:12,545 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/document-find.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/document-find.png
+2026-10-29 16:08:22,640 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/living/images/living.png | HTTPError: 404 Client Error: Not Found for url: https://www.waytogo.cc/topic/living/images/living.png
+2026-10-29 16:08:23,628 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg
+2026-10-29 16:08:23,831 [INFO] 成功：中華民國領海基點 - 旅聯網 | 找到圖片：15 | 下載成功：11 | 下載失敗：4
+2026-10-29 16:08:24,832 [INFO] [26/32] 正在處理：https://youtu.be/2hbu5n9VLZY?si=JC29M3MbFRsFELoU
+2026-10-29 16:08:26,250 [INFO] 成功：桃園觀音區探訪｜台版撒哈拉沙漠和百年燈塔藏在西海岸｜草漯沙丘・白沙岬燈塔・觀音飛機場【IROIRO】 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:08:27,251 [INFO] [27/32] 正在處理：https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i
+2026-10-29 16:08:29,563 [INFO] 成功：桃園觀音一日遊｜百合花海＋綠色隧道＋百年燈塔 #旅行 #景點 #賞花 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:08:30,563 [INFO] [28/32] 正在處理：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957
+2026-10-29 16:08:30,817 [WARNING] 失敗：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957 | SSLError: HTTPSConnectionPool(host='tcmb.culture.tw', port=443): Max retries exceeded with url: /zh-tw/detail?indexCode=Culture_Route&id=593957 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:08:31,818 [INFO] [29/32] 正在處理：https://vocus.cc/article/6692021dfd89780001850bb9
+2026-10-29 16:08:34,438 [INFO] 成功：後人飲水，莫忘前人犧牲－1958年石門水庫大移民(本文曾刊登於聚傳媒樂風專欄)｜樂風的民藝筆記的沙龍 | 找到圖片：2 | 下載成功：2 | 下載失敗：0
+2026-10-29 16:08:35,439 [INFO] [30/32] 正在處理：https://youtu.be/AWP_v5I0zYA?si=0RkOhrRUMGU9zJfu
+2026-10-29 16:08:36,818 [INFO] 成功：歷史那一刻 石門水庫遷村故事｜華視新聞雜誌｜精選 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:08:37,818 [INFO] [31/32] 正在處理：https://ihc.cip.gov.tw/EJournal/EJournalCat/737
+2026-10-29 16:08:43,228 [INFO] 成功：原住民族文獻 | 找到圖片：12 | 下載成功：12 | 下載失敗：0
+2026-10-29 16:08:44,229 [INFO] [32/32] 正在處理：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82)
+2026-10-29 16:08:47,902 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | 找到圖片：8 | 下載成功：8 | 下載失敗：0
+2026-10-29 16:12:44,315 [INFO] 略過 YouTube 影片網址：https://youtu.be/2hbu5n9VLZY?si=JC29M3MbFRsFELoU
+2026-10-29 16:12:44,315 [INFO] 略過 YouTube 影片網址：https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i
+2026-10-29 16:12:44,315 [INFO] 略過 YouTube 影片網址：https://youtu.be/AWP_v5I0zYA?si=0RkOhrRUMGU9zJfu
+2026-10-29 16:12:44,315 [INFO] 已略過 YouTube 影片網址：3 個
+2026-10-29 16:12:44,316 [INFO] [1/29] 正在處理：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80
+2026-10-29 16:12:50,503 [INFO] 成功：觀音區 - 維基百科，自由的百科全書 | 找到圖片：16 | 下載成功：16 | 下載失敗：0
+2026-10-29 16:12:51,505 [INFO] [2/29] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/district/50
+2026-10-29 16:12:51,817 [INFO] 成功：分區介紹 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:12:52,817 [INFO] [3/29] 正在處理：https://smiletaiwan.cw.com.tw/article/6889
+2026-10-29 16:12:56,969 [INFO] 成功：散步桃園觀音的自然愜意，在崙坪文化地景園區遇見失落遺跡、龜殼劇場還有客家食堂 - 我的旅圖中 - 微笑台灣 - 用深度旅遊體驗鄉鎮魅力 | 找到圖片：12 | 下載成功：12 | 下載失敗：0
+2026-10-29 16:12:57,971 [INFO] [4/29] 正在處理：https://romantichakka.com/hakkatours/TourExpert?a=1202&fromlist=1&id=1624
+2026-10-29 16:13:04,498 [INFO] 成功：9個觀音＆新屋景點推薦・全台唯一的客庄海洋聚落，跟著海客漁夫體驗石滬的一日漫遊-客庄小旅行 | 找到圖片：24 | 下載成功：24 | 下載失敗：0
+2026-10-29 16:13:05,499 [INFO] [5/29] 正在處理：https://natsuphil.com/taoyuan/baisha-cape/
+2026-10-29 16:13:23,793 [INFO] 成功：桃園觀音景點〡白沙岬燈塔〡百年日治時代燈塔, 希臘鐘塔熱門打卡景點, 超Q台灣縮小版燈塔 @小菲親子玩樂生活 | 找到圖片：44 | 下載成功：44 | 下載失敗：0
+2026-10-29 16:13:24,795 [INFO] [6/29] 正在處理：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10
+2026-10-29 16:13:25,056 [WARNING] 失敗：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10 | SSLError: HTTPSConnectionPool(host='www.bip.gov.tw', port=443): Max retries exceeded with url: /iphw/kuangin/index.do?id=10 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:13:26,057 [INFO] [7/29] 正在處理：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
+2026-10-29 16:13:26,293 [WARNING] 失敗：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772 | SSLError: HTTPSConnectionPool(host='www.guanyin-hro.tycg.gov.tw', port=443): Max retries exceeded with url: /cp.aspx?n=13772 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:13:27,293 [INFO] [8/29] 正在處理：https://www.ganquan-temple.org.tw/
+2026-10-29 16:13:33,159 [INFO] 成功：甘泉寺 | 找到圖片：11 | 下載成功：11 | 下載失敗：0
+2026-10-29 16:13:34,160 [INFO] [9/29] 正在處理：https://vocus.cc/article/695b08a8fd897800017a25c9
+2026-10-29 16:13:39,095 [INFO] 成功：【桃園石觀音甘泉寺一日遊】清乾隆古剎 × 甘泉傳奇 × 三教合一的石觀音聖地｜悠遊時光 | 找到圖片：14 | 下載成功：14 | 下載失敗：0
+2026-10-29 16:13:40,097 [INFO] [10/29] 正在處理：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:13:40,552 [WARNING] 失敗：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82 | HTTPError: 404 Client Error: Not Found for url: https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:13:41,553 [INFO] [11/29] 正在處理：https://travel.tycg.gov.tw/ja/travel/attraction/1045
+2026-10-29 16:13:42,682 [INFO] 成功：白沙岬灯塔(灯台)(白沙岬燈塔) | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:13:43,683 [INFO] [12/29] 正在處理：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/5205
+2026-10-29 16:13:44,312 [INFO] 成功：2025桃園蓮花季 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:13:45,313 [INFO] [13/29] 正在處理：https://ezgo.ardswc.gov.tw/zh-tw/leisure-area/1529/
+2026-10-29 16:13:54,044 [INFO] 成功：蓮花園休閒農業區－農業易遊網 | 找到圖片：22 | 下載成功：22 | 下載失敗：0
+2026-10-29 16:13:55,046 [INFO] [14/29] 正在處理：https://duringmyjourney.com/treegarden/
+2026-10-29 16:14:12,796 [INFO] 成功：《桃園觀音》樹園子 遠離塵囂的日式禪風景觀餐廳、以無菜單料理感受四季饗宴 – 我的旅圖中 during my journey | 找到圖片：40 | 下載成功：40 | 下載失敗：0
+2026-10-29 16:14:13,797 [INFO] [15/29] 正在處理：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%9D%91%E6%BA%AA
+2026-10-29 16:14:16,637 [INFO] 成功：觀音坑溪 - 维基百科，自由的百科全书 | 找到圖片：6 | 下載成功：6 | 下載失敗：0
+2026-10-29 16:14:17,638 [INFO] [16/29] 正在處理：https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A0%80%E6%BA%AA
+2026-10-29 16:14:18,155 [INFO] 成功：大堀溪 - 维基百科，自由的百科全书 | 找到圖片：1 | 下載成功：1 | 下載失敗：0
+2026-10-29 16:14:19,156 [INFO] [17/29] 正在處理：https://romantichakka.com/explore/HaFood?a=1955&id=3209
+2026-10-29 16:14:19,842 [INFO] 成功：來來牛家莊-客庄小旅行 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:14:20,842 [INFO] [18/29] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1442
+2026-10-29 16:14:21,363 [INFO] 成功：草漯沙丘地質公園 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:14:22,364 [INFO] [19/29] 正在處理：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1454
+2026-10-29 16:14:22,738 [INFO] 成功：觀新藻礁生態系野生動物保護區 | 找到圖片：0 | 下載成功：0 | 下載失敗：0
+2026-10-29 16:14:23,738 [INFO] [20/29] 正在處理：https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BD%AD%E7%99%BC%E9%9B%BB%E5%BB%A0
+2026-10-29 16:14:26,107 [INFO] 成功：大潭發電廠 - 维基百科，自由的百科全书 | 找到圖片：6 | 下載成功：6 | 下載失敗：0
+2026-10-29 16:14:27,108 [INFO] [21/29] 正在處理：https://supertaste.tvbs.com.tw/travel/348994
+2026-10-29 16:14:31,580 [INFO] 成功：超過２萬朵「純白百合花海」50元拍爆！順遊日系樹林隧道、超低調麵包工廠 | 食尚玩家 | 找到圖片：16 | 下載成功：16 | 下載失敗：0
+2026-10-29 16:14:32,581 [INFO] [22/29] 正在處理：https://wonderfood.pixnet.net/blog/posts/8229181678
+2026-10-29 16:14:41,365 [INFO] 成功：【桃園觀音白千層綠韻大道】IG熱門打卡文青風秘境 ★ 筆直的綠蔭大道 | 美食人生 | 美食情報分享 | 痞客邦 | PIXNET | 找到圖片：18 | 下載成功：18 | 下載失敗：0
+2026-10-29 16:14:42,366 [INFO] [23/29] 正在處理：https://tw.news.yahoo.com/%E5%B7%A8%E5%A4%A7%E9%A3%9B%E6%A9%9F%E7%95%B6%E8%83%8C%E6%99%AF-%E5%BB%A2%E5%A2%9F%E8%AE%8A%E8%BA%AB%E7%86%B1%E9%96%80%E6%89%93%E5%8D%A1%E9%BB%9E-083000098.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMue1ozVAbpfw6hSS2pCbhjuzTu6me6bcpMl0s-LHtA2GRA3aRWmhljRIGs7l4-uM64T6h_nSE6aMW7_PKYyXpGeJGmvAgVTj2YBaEVL9EHUdHeBk4EA-goYi6KfIkr7LtpgkElmfQasy8weFUaMOL5LXX1ef3DVxE-pHWTtv9b_
+2026-10-29 16:14:46,106 [INFO] 成功：巨大飛機當背景！廢墟變身熱門打卡點 | 找到圖片：10 | 下載成功：10 | 下載失敗：0
+2026-10-29 16:14:47,108 [INFO] [24/29] 正在處理：https://www.century.com.tw/tw/about/3/
+2026-10-29 16:14:49,062 [INFO] 成功：世紀鋼構 | 找到圖片：3 | 下載成功：3 | 下載失敗：0
+2026-10-29 16:14:50,063 [INFO] [25/29] 正在處理：https://www.waytogo.cc/topic/4157
+2026-10-29 16:14:51,487 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/logo.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/logo.png
+2026-10-29 16:14:52,487 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/document-find.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/document-find.png
+2026-10-29 16:14:57,484 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/living/images/living.png | HTTPError: 404 Client Error: Not Found for url: https://www.waytogo.cc/topic/living/images/living.png
+2026-10-29 16:14:58,516 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg
+2026-10-29 16:14:58,724 [INFO] 成功：中華民國領海基點 - 旅聯網 | 找到圖片：15 | 下載成功：11 | 下載失敗：4
+2026-10-29 16:14:59,727 [INFO] [26/29] 正在處理：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957
+2026-10-29 16:14:59,991 [WARNING] 失敗：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957 | SSLError: HTTPSConnectionPool(host='tcmb.culture.tw', port=443): Max retries exceeded with url: /zh-tw/detail?indexCode=Culture_Route&id=593957 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:15:00,992 [INFO] [27/29] 正在處理：https://vocus.cc/article/6692021dfd89780001850bb9
+2026-10-29 16:15:02,453 [INFO] 成功：後人飲水，莫忘前人犧牲－1958年石門水庫大移民(本文曾刊登於聚傳媒樂風專欄)｜樂風的民藝筆記的沙龍 | 找到圖片：2 | 下載成功：2 | 下載失敗：0
+2026-10-29 16:15:03,455 [INFO] [28/29] 正在處理：https://ihc.cip.gov.tw/EJournal/EJournalCat/737
+2026-10-29 16:15:08,306 [INFO] 成功：原住民族文獻 | 找到圖片：12 | 下載成功：12 | 下載失敗：0
+2026-10-29 16:15:09,306 [INFO] [29/29] 正在處理：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82)
+2026-10-29 16:15:13,048 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | 找到圖片：8 | 下載成功：8 | 下載失敗：0
+2026-10-29 16:22:30,180 [INFO] 略過 YouTube 影片網址：https://youtu.be/2hbu5n9VLZY?si=JC29M3MbFRsFELoU
+2026-10-29 16:22:30,180 [INFO] 略過 YouTube 影片網址：https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i
+2026-10-29 16:22:30,181 [INFO] 略過 YouTube 影片網址：https://youtu.be/AWP_v5I0zYA?si=0RkOhrRUMGU9zJfu
+2026-10-29 16:22:30,181 [INFO] 已略過 YouTube 影片網址：3 個
+2026-10-29 16:22:30,181 [INFO] 正在處理 [page_001] depth=0 extension=False：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80
+2026-10-29 16:22:36,786 [INFO] 成功：觀音區 - 維基百科，自由的百科全書 | depth=0 | 延伸探索=False
+2026-10-29 16:22:36,793 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E5%B7%A5%E6%A5%AD%E5%8D%80&action=edit&redlink=1（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,795 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,795 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BA%84（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,797 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF%E4%BF%9D%E9%9A%9C%E5%AE%AE（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,798 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E7%94%98%E6%B3%89%E5%AF%BA（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,798 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BE%A9%E8%88%88%E5%AE%AE（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,798 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E6%B0%B8%E8%88%88%E5%AE%AE&action=edit&redlink=1（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,799 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E8%8F%A9%E8%96%A9（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,800 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:36,800 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E8%A7%80%E9%9F%B3%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:22:37,801 [INFO] 正在處理 [page_002] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/travel/district/50
+2026-10-29 16:22:38,205 [WARNING] 失敗：https://travel.tycg.gov.tw/zh-tw/travel/district/50 | HTTPError: 404 Client Error: Not Found for url: https://travel.tycg.gov.tw/zh-tw/notfound?aspxerrorpath=/zh-tw/travel/district/50
+2026-10-29 16:22:39,205 [INFO] 正在處理 [page_003] depth=0 extension=False：https://smiletaiwan.cw.com.tw/article/6889
+2026-10-29 16:22:42,916 [INFO] 成功：散步桃園觀音的自然愜意，在崙坪文化地景園區遇見失落遺跡、龜殼劇場還有客家食堂 - 我的旅圖中 - 微笑台灣 - 用深度旅遊體驗鄉鎮魅力 | depth=0 | 延伸探索=False
+2026-10-29 16:22:43,917 [INFO] 正在處理 [page_004] depth=0 extension=False：https://romantichakka.com/hakkatours/TourExpert?a=1202&fromlist=1&id=1624
+2026-10-29 16:22:50,269 [INFO] 成功：9個觀音＆新屋景點推薦・全台唯一的客庄海洋聚落，跟著海客漁夫體驗石滬的一日漫遊-客庄小旅行 | depth=0 | 延伸探索=False
+2026-10-29 16:22:51,270 [INFO] 正在處理 [page_005] depth=0 extension=False：https://natsuphil.com/taoyuan/baisha-cape/
+2026-10-29 16:23:09,674 [INFO] 成功：桃園觀音景點〡白沙岬燈塔〡百年日治時代燈塔, 希臘鐘塔熱門打卡景點, 超Q台灣縮小版燈塔 @小菲親子玩樂生活 | depth=0 | 延伸探索=False
+2026-10-29 16:23:10,675 [INFO] 正在處理 [page_006] depth=0 extension=False：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10
+2026-10-29 16:23:10,953 [WARNING] 失敗：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10 | SSLError: HTTPSConnectionPool(host='www.bip.gov.tw', port=443): Max retries exceeded with url: /iphw/kuangin/index.do?id=10 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:23:11,954 [INFO] 正在處理 [page_007] depth=0 extension=False：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
+2026-10-29 16:23:12,198 [WARNING] 失敗：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772 | SSLError: HTTPSConnectionPool(host='www.guanyin-hro.tycg.gov.tw', port=443): Max retries exceeded with url: /cp.aspx?n=13772 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:23:13,199 [INFO] 正在處理 [page_008] depth=0 extension=False：https://www.ganquan-temple.org.tw/
+2026-10-29 16:23:19,565 [INFO] 成功：甘泉寺 | depth=0 | 延伸探索=False
+2026-10-29 16:23:20,566 [INFO] 正在處理 [page_009] depth=0 extension=False：https://vocus.cc/article/695b08a8fd897800017a25c9
+2026-10-29 16:23:26,542 [INFO] 成功：【桃園石觀音甘泉寺一日遊】清乾隆古剎 × 甘泉傳奇 × 三教合一的石觀音聖地｜悠遊時光 | depth=0 | 延伸探索=False
+2026-10-29 16:23:27,543 [INFO] 正在處理 [page_010] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:23:28,056 [WARNING] 失敗：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82 | HTTPError: 404 Client Error: Not Found for url: https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:23:29,057 [INFO] 正在處理 [page_011] depth=0 extension=False：https://travel.tycg.gov.tw/ja/travel/attraction/1045
+2026-10-29 16:23:30,166 [INFO] 成功：白沙岬灯塔(灯台)(白沙岬燈塔) | depth=0 | 延伸探索=False
+2026-10-29 16:23:31,167 [INFO] 正在處理 [page_012] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/5205
+2026-10-29 16:23:31,709 [INFO] 成功：2025桃園蓮花季 | depth=0 | 延伸探索=False
+2026-10-29 16:23:32,709 [INFO] 正在處理 [page_013] depth=0 extension=False：https://ezgo.ardswc.gov.tw/zh-tw/leisure-area/1529/
+2026-10-29 16:23:41,940 [INFO] 成功：蓮花園休閒農業區－農業易遊網 | depth=0 | 延伸探索=False
+2026-10-29 16:23:42,941 [INFO] 正在處理 [page_014] depth=0 extension=False：https://duringmyjourney.com/treegarden/
+2026-10-29 16:24:00,163 [INFO] 成功：《桃園觀音》樹園子 遠離塵囂的日式禪風景觀餐廳、以無菜單料理感受四季饗宴 – 我的旅圖中 during my journey | depth=0 | 延伸探索=False
+2026-10-29 16:24:01,164 [INFO] 正在處理 [page_015] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%9D%91%E6%BA%AA
+2026-10-29 16:24:03,840 [INFO] 成功：觀音坑溪 - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:24:04,840 [INFO] 正在處理 [page_016] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A0%80%E6%BA%AA
+2026-10-29 16:24:05,355 [INFO] 成功：大堀溪 - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:24:06,356 [INFO] 正在處理 [page_017] depth=0 extension=False：https://romantichakka.com/explore/HaFood?a=1955&id=3209
+2026-10-29 16:24:07,012 [INFO] 成功：來來牛家莊-客庄小旅行 | depth=0 | 延伸探索=False
+2026-10-29 16:24:08,013 [INFO] 正在處理 [page_018] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1442
+2026-10-29 16:24:08,299 [INFO] 成功：草漯沙丘地質公園 | depth=0 | 延伸探索=False
+2026-10-29 16:24:09,299 [INFO] 正在處理 [page_019] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1454
+2026-10-29 16:24:09,531 [INFO] 成功：觀新藻礁生態系野生動物保護區 | depth=0 | 延伸探索=False
+2026-10-29 16:24:10,532 [INFO] 正在處理 [page_020] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BD%AD%E7%99%BC%E9%9B%BB%E5%BB%A0
+2026-10-29 16:24:12,771 [INFO] 成功：大潭發電廠 - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:24:13,771 [INFO] 正在處理 [page_021] depth=0 extension=False：https://supertaste.tvbs.com.tw/travel/348994
+2026-10-29 16:24:17,877 [INFO] 成功：超過２萬朵「純白百合花海」50元拍爆！順遊日系樹林隧道、超低調麵包工廠 | 食尚玩家 | depth=0 | 延伸探索=False
+2026-10-29 16:24:18,877 [INFO] 正在處理 [page_022] depth=0 extension=False：https://wonderfood.pixnet.net/blog/posts/8229181678
+2026-10-29 16:24:30,865 [INFO] 成功：【桃園觀音白千層綠韻大道】IG熱門打卡文青風秘境 ★ 筆直的綠蔭大道 | 美食人生 | 美食情報分享 | 痞客邦 | PIXNET | depth=0 | 延伸探索=False
+2026-10-29 16:24:31,865 [INFO] 正在處理 [page_023] depth=0 extension=False：https://tw.news.yahoo.com/%E5%B7%A8%E5%A4%A7%E9%A3%9B%E6%A9%9F%E7%95%B6%E8%83%8C%E6%99%AF-%E5%BB%A2%E5%A2%9F%E8%AE%8A%E8%BA%AB%E7%86%B1%E9%96%80%E6%89%93%E5%8D%A1%E9%BB%9E-083000098.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMue1ozVAbpfw6hSS2pCbhjuzTu6me6bcpMl0s-LHtA2GRA3aRWmhljRIGs7l4-uM64T6h_nSE6aMW7_PKYyXpGeJGmvAgVTj2YBaEVL9EHUdHeBk4EA-goYi6KfIkr7LtpgkElmfQasy8weFUaMOL5LXX1ef3DVxE-pHWTtv9b_
+2026-10-29 16:24:35,607 [INFO] 成功：巨大飛機當背景！廢墟變身熱門打卡點 | depth=0 | 延伸探索=False
+2026-10-29 16:24:36,608 [INFO] 正在處理 [page_024] depth=0 extension=False：https://www.century.com.tw/tw/about/3/
+2026-10-29 16:24:38,503 [INFO] 成功：世紀鋼構 | depth=0 | 延伸探索=False
+2026-10-29 16:24:39,503 [INFO] 正在處理 [page_025] depth=0 extension=False：https://www.waytogo.cc/topic/4157
+2026-10-29 16:24:40,919 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/logo.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/logo.png
+2026-10-29 16:24:41,957 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/document-find.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/document-find.png
+2026-10-29 16:24:46,806 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/living/images/living.png | HTTPError: 404 Client Error: Not Found for url: https://www.waytogo.cc/topic/living/images/living.png
+2026-10-29 16:24:47,797 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg
+2026-10-29 16:24:48,005 [INFO] 成功：中華民國領海基點 - 旅聯網 | depth=0 | 延伸探索=False
+2026-10-29 16:24:49,006 [INFO] 正在處理 [page_026] depth=0 extension=False：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957
+2026-10-29 16:24:49,292 [WARNING] 失敗：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957 | SSLError: HTTPSConnectionPool(host='tcmb.culture.tw', port=443): Max retries exceeded with url: /zh-tw/detail?indexCode=Culture_Route&id=593957 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:24:50,293 [INFO] 正在處理 [page_027] depth=0 extension=False：https://vocus.cc/article/6692021dfd89780001850bb9
+2026-10-29 16:24:52,733 [INFO] 成功：後人飲水，莫忘前人犧牲－1958年石門水庫大移民(本文曾刊登於聚傳媒樂風專欄)｜樂風的民藝筆記的沙龍 | depth=0 | 延伸探索=False
+2026-10-29 16:24:53,733 [INFO] 正在處理 [page_028] depth=0 extension=False：https://ihc.cip.gov.tw/EJournal/EJournalCat/737
+2026-10-29 16:24:58,417 [INFO] 成功：原住民族文獻 | depth=0 | 延伸探索=False
+2026-10-29 16:24:59,417 [INFO] 正在處理 [page_029] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82)
+2026-10-29 16:25:03,180 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:25:04,181 [INFO] 正在處理 [page_030] depth=1 extension=True：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E5%B7%A5%E6%A5%AD%E5%8D%80&action=edit&redlink=1
+2026-10-29 16:25:06,292 [INFO] 成功：ňłŤň╗║ÔÇťŔžÇÚč│ňĚąŠąşňŹÇÔÇŁ - š╗┤ňč║šÖżšžĹ´╝îŔç¬šö▒šÜäšÖżšžĹňůĘń╣Ž | depth=1 | 延伸探索=True
+2026-10-29 16:25:07,293 [INFO] 正在處理 [page_031] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9
+2026-10-29 16:25:20,725 [INFO] 成功：觀世音菩薩 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:21,726 [INFO] 正在處理 [page_032] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BA%84
+2026-10-29 16:25:23,265 [INFO] 成功：觀音庄 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:24,266 [INFO] 正在處理 [page_033] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF%E4%BF%9D%E9%9A%9C%E5%AE%AE
+2026-10-29 16:25:27,274 [INFO] 成功：草漯保障宮 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:28,275 [INFO] 正在處理 [page_034] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E7%94%98%E6%B3%89%E5%AF%BA
+2026-10-29 16:25:30,715 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:31,716 [INFO] 正在處理 [page_035] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BE%A9%E8%88%88%E5%AE%AE
+2026-10-29 16:25:35,885 [INFO] 成功：觀音復興宮 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:36,886 [INFO] 正在處理 [page_036] depth=1 extension=True：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E6%B0%B8%E8%88%88%E5%AE%AE&action=edit&redlink=1
+2026-10-29 16:25:38,477 [INFO] 成功：创建“觀音永興宮” - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:39,477 [INFO] 正在處理 [page_037] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E8%8F%A9%E8%96%A9
+2026-10-29 16:25:51,124 [INFO] 成功：觀世音菩薩 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:52,125 [INFO] 正在處理 [page_038] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF
+2026-10-29 16:25:55,464 [INFO] 成功：草漯 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:25:56,464 [INFO] 正在處理 [page_039] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E8%A7%80%E9%9F%B3%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1
+2026-10-29 16:25:59,675 [INFO] 成功：桃園市立觀音高級中等學校 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:33:50,216 [INFO] 略過 YouTube 影片網址：https://youtu.be/2hbu5n9VLZY?si=JC29M3MbFRsFELoU
+2026-10-29 16:33:50,216 [INFO] 略過 YouTube 影片網址：https://youtube.com/shorts/uRHrog9kbvA?si=HV51h_uice8StG-i
+2026-10-29 16:33:50,216 [INFO] 略過 YouTube 影片網址：https://youtu.be/AWP_v5I0zYA?si=0RkOhrRUMGU9zJfu
+2026-10-29 16:33:50,216 [INFO] 已略過 YouTube 影片網址：3 個
+2026-10-29 16:33:50,217 [INFO] 正在處理 [page_001] depth=0 extension=False：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80
+2026-10-29 16:33:56,525 [INFO] 成功：觀音區 - 維基百科，自由的百科全書 | depth=0 | 延伸探索=False
+2026-10-29 16:33:56,526 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E5%B7%A5%E6%A5%AD%E5%8D%80&action=edit&redlink=1（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,526 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,527 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BA%84（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,527 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF%E4%BF%9D%E9%9A%9C%E5%AE%AE（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,527 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E7%94%98%E6%B3%89%E5%AF%BA（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,527 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BE%A9%E8%88%88%E5%AE%AE（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,528 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E6%B0%B8%E8%88%88%E5%AE%AE&action=edit&redlink=1（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,528 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E8%8F%A9%E8%96%A9（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,528 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:56,528 [INFO] 加入延伸探索佇列（depth=1）：https://zh.wikipedia.org/wiki/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E8%A7%80%E9%9F%B3%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1（來源：https://zh.wikipedia.org/zh-tw/%E8%A7%80%E9%9F%B3%E5%8D%80）
+2026-10-29 16:33:57,529 [INFO] 正在處理 [page_002] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/travel/district/50
+2026-10-29 16:33:57,873 [WARNING] 失敗：https://travel.tycg.gov.tw/zh-tw/travel/district/50 | HTTPError: 404 Client Error: Not Found for url: https://travel.tycg.gov.tw/zh-tw/notfound?aspxerrorpath=/zh-tw/travel/district/50
+2026-10-29 16:33:58,873 [INFO] 正在處理 [page_003] depth=0 extension=False：https://smiletaiwan.cw.com.tw/article/6889
+2026-10-29 16:34:03,473 [INFO] 成功：散步桃園觀音的自然愜意，在崙坪文化地景園區遇見失落遺跡、龜殼劇場還有客家食堂 - 我的旅圖中 - 微笑台灣 - 用深度旅遊體驗鄉鎮魅力 | depth=0 | 延伸探索=False
+2026-10-29 16:34:04,473 [INFO] 正在處理 [page_004] depth=0 extension=False：https://romantichakka.com/hakkatours/TourExpert?a=1202&fromlist=1&id=1624
+2026-10-29 16:34:10,888 [INFO] 成功：9個觀音＆新屋景點推薦・全台唯一的客庄海洋聚落，跟著海客漁夫體驗石滬的一日漫遊-客庄小旅行 | depth=0 | 延伸探索=False
+2026-10-29 16:34:11,888 [INFO] 正在處理 [page_005] depth=0 extension=False：https://natsuphil.com/taoyuan/baisha-cape/
+2026-10-29 16:34:30,290 [INFO] 成功：桃園觀音景點〡白沙岬燈塔〡百年日治時代燈塔, 希臘鐘塔熱門打卡景點, 超Q台灣縮小版燈塔 @小菲親子玩樂生活 | depth=0 | 延伸探索=False
+2026-10-29 16:34:31,290 [INFO] 正在處理 [page_006] depth=0 extension=False：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10
+2026-10-29 16:34:31,538 [WARNING] 失敗：https://www.bip.gov.tw/iphw/kuangin/index.do?id=10 | SSLError: HTTPSConnectionPool(host='www.bip.gov.tw', port=443): Max retries exceeded with url: /iphw/kuangin/index.do?id=10 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:34:32,538 [INFO] 正在處理 [page_007] depth=0 extension=False：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772
+2026-10-29 16:34:32,772 [WARNING] 失敗：https://www.guanyin-hro.tycg.gov.tw/cp.aspx?n=13772 | SSLError: HTTPSConnectionPool(host='www.guanyin-hro.tycg.gov.tw', port=443): Max retries exceeded with url: /cp.aspx?n=13772 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:34:33,773 [INFO] 正在處理 [page_008] depth=0 extension=False：https://www.ganquan-temple.org.tw/
+2026-10-29 16:34:40,486 [INFO] 成功：甘泉寺 | depth=0 | 延伸探索=False
+2026-10-29 16:34:41,486 [INFO] 正在處理 [page_009] depth=0 extension=False：https://vocus.cc/article/695b08a8fd897800017a25c9
+2026-10-29 16:34:45,781 [INFO] 成功：【桃園石觀音甘泉寺一日遊】清乾隆古剎 × 甘泉傳奇 × 三教合一的石觀音聖地｜悠遊時光 | depth=0 | 延伸探索=False
+2026-10-29 16:34:46,781 [INFO] 正在處理 [page_010] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:34:47,237 [WARNING] 失敗：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82 | HTTPError: 404 Client Error: Not Found for url: https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82
+2026-10-29 16:34:48,238 [INFO] 正在處理 [page_011] depth=0 extension=False：https://travel.tycg.gov.tw/ja/travel/attraction/1045
+2026-10-29 16:34:57,177 [INFO] 成功：白沙岬灯塔(灯台)(白沙岬燈塔) | depth=0 | 延伸探索=False
+2026-10-29 16:34:58,178 [INFO] 正在處理 [page_012] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/event/calendardetail/5205
+2026-10-29 16:34:58,930 [INFO] 成功：2025桃園蓮花季 | depth=0 | 延伸探索=False
+2026-10-29 16:34:59,930 [INFO] 正在處理 [page_013] depth=0 extension=False：https://ezgo.ardswc.gov.tw/zh-tw/leisure-area/1529/
+2026-10-29 16:35:18,204 [INFO] 成功：蓮花園休閒農業區－農業易遊網 | depth=0 | 延伸探索=False
+2026-10-29 16:35:19,205 [INFO] 正在處理 [page_014] depth=0 extension=False：https://duringmyjourney.com/treegarden/
+2026-10-29 16:35:39,413 [INFO] 成功：《桃園觀音》樹園子 遠離塵囂的日式禪風景觀餐廳、以無菜單料理感受四季饗宴 – 我的旅圖中 during my journey | depth=0 | 延伸探索=False
+2026-10-29 16:35:40,414 [INFO] 正在處理 [page_015] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%9D%91%E6%BA%AA
+2026-10-29 16:35:43,409 [INFO] 成功：觀音坑溪 - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:35:44,409 [INFO] 正在處理 [page_016] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A0%80%E6%BA%AA
+2026-10-29 16:35:44,942 [INFO] 成功：大堀溪 - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:35:45,943 [INFO] 正在處理 [page_017] depth=0 extension=False：https://romantichakka.com/explore/HaFood?a=1955&id=3209
+2026-10-29 16:35:46,614 [INFO] 成功：來來牛家莊-客庄小旅行 | depth=0 | 延伸探索=False
+2026-10-29 16:35:47,614 [INFO] 正在處理 [page_018] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1442
+2026-10-29 16:35:47,883 [INFO] 成功：草漯沙丘地質公園 | depth=0 | 延伸探索=False
+2026-10-29 16:35:48,884 [INFO] 正在處理 [page_019] depth=0 extension=False：https://travel.tycg.gov.tw/zh-tw/travel/attraction/1454
+2026-10-29 16:35:49,148 [INFO] 成功：觀新藻礁生態系野生動物保護區 | depth=0 | 延伸探索=False
+2026-10-29 16:35:50,149 [INFO] 正在處理 [page_020] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BD%AD%E7%99%BC%E9%9B%BB%E5%BB%A0
+2026-10-29 16:35:52,442 [INFO] 成功：大潭發電廠 - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:35:53,442 [INFO] 正在處理 [page_021] depth=0 extension=False：https://supertaste.tvbs.com.tw/travel/348994
+2026-10-29 16:35:58,467 [INFO] 成功：超過２萬朵「純白百合花海」50元拍爆！順遊日系樹林隧道、超低調麵包工廠 | 食尚玩家 | depth=0 | 延伸探索=False
+2026-10-29 16:35:59,468 [INFO] 正在處理 [page_022] depth=0 extension=False：https://wonderfood.pixnet.net/blog/posts/8229181678
+2026-10-29 16:36:09,368 [INFO] 成功：【桃園觀音白千層綠韻大道】IG熱門打卡文青風秘境 ★ 筆直的綠蔭大道 | 美食人生 | 美食情報分享 | 痞客邦 | PIXNET | depth=0 | 延伸探索=False
+2026-10-29 16:36:10,369 [INFO] 正在處理 [page_023] depth=0 extension=False：https://tw.news.yahoo.com/%E5%B7%A8%E5%A4%A7%E9%A3%9B%E6%A9%9F%E7%95%B6%E8%83%8C%E6%99%AF-%E5%BB%A2%E5%A2%9F%E8%AE%8A%E8%BA%AB%E7%86%B1%E9%96%80%E6%89%93%E5%8D%A1%E9%BB%9E-083000098.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMue1ozVAbpfw6hSS2pCbhjuzTu6me6bcpMl0s-LHtA2GRA3aRWmhljRIGs7l4-uM64T6h_nSE6aMW7_PKYyXpGeJGmvAgVTj2YBaEVL9EHUdHeBk4EA-goYi6KfIkr7LtpgkElmfQasy8weFUaMOL5LXX1ef3DVxE-pHWTtv9b_
+2026-10-29 16:36:14,012 [INFO] 成功：巨大飛機當背景！廢墟變身熱門打卡點 | depth=0 | 延伸探索=False
+2026-10-29 16:36:15,013 [INFO] 正在處理 [page_024] depth=0 extension=False：https://www.century.com.tw/tw/about/3/
+2026-10-29 16:36:16,952 [INFO] 成功：世紀鋼構 | depth=0 | 延伸探索=False
+2026-10-29 16:36:17,953 [INFO] 正在處理 [page_025] depth=0 extension=False：https://www.waytogo.cc/topic/4157
+2026-10-29 16:36:19,508 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/logo.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/logo.png
+2026-10-29 16:36:20,560 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/document-find.png | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/document-find.png
+2026-10-29 16:36:25,341 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/living/images/living.png | HTTPError: 404 Client Error: Not Found for url: https://www.waytogo.cc/topic/living/images/living.png
+2026-10-29 16:36:26,325 [WARNING] 圖片下載失敗：https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg | HTTPError: 403 Client Error: Forbidden for url: https://www.waytogo.cc/topic/images/topic/cache/medium/4/1/4157.jpg
+2026-10-29 16:36:26,528 [INFO] 成功：中華民國領海基點 - 旅聯網 | depth=0 | 延伸探索=False
+2026-10-29 16:36:27,528 [INFO] 正在處理 [page_026] depth=0 extension=False：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957
+2026-10-29 16:36:27,806 [WARNING] 失敗：https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Route&id=593957 | SSLError: HTTPSConnectionPool(host='tcmb.culture.tw', port=443): Max retries exceeded with url: /zh-tw/detail?indexCode=Culture_Route&id=593957 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1028)')))
+2026-10-29 16:36:28,807 [INFO] 正在處理 [page_027] depth=0 extension=False：https://vocus.cc/article/6692021dfd89780001850bb9
+2026-10-29 16:36:30,895 [INFO] 成功：後人飲水，莫忘前人犧牲－1958年石門水庫大移民(本文曾刊登於聚傳媒樂風專欄)｜樂風的民藝筆記的沙龍 | depth=0 | 延伸探索=False
+2026-10-29 16:36:31,896 [INFO] 正在處理 [page_028] depth=0 extension=False：https://ihc.cip.gov.tw/EJournal/EJournalCat/737
+2026-10-29 16:36:36,138 [INFO] 成功：原住民族文獻 | depth=0 | 延伸探索=False
+2026-10-29 16:36:37,139 [INFO] 正在處理 [page_029] depth=0 extension=False：https://zh.wikipedia.org/wiki/%E7%94%98%E6%B3%89%E5%AF%BA_(%E6%A1%83%E5%9C%92%E5%B8%82)
+2026-10-29 16:36:40,775 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | depth=0 | 延伸探索=False
+2026-10-29 16:36:41,775 [INFO] 正在處理 [page_030] depth=1 extension=True：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E5%B7%A5%E6%A5%AD%E5%8D%80&action=edit&redlink=1
+2026-10-29 16:36:43,670 [INFO] 成功：ňłŤň╗║ÔÇťŔžÇÚč│ňĚąŠąşňŹÇÔÇŁ - š╗┤ňč║šÖżšžĹ´╝îŔç¬šö▒šÜäšÖżšžĹňůĘń╣Ž | depth=1 | 延伸探索=True
+2026-10-29 16:36:44,671 [INFO] 正在處理 [page_031] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9
+2026-10-29 16:36:55,014 [INFO] 成功：觀世音菩薩 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:36:56,014 [INFO] 正在處理 [page_032] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BA%84
+2026-10-29 16:36:56,749 [INFO] 成功：觀音庄 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:36:57,749 [INFO] 正在處理 [page_033] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF%E4%BF%9D%E9%9A%9C%E5%AE%AE
+2026-10-29 16:36:59,279 [INFO] 成功：草漯保障宮 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:37:00,279 [INFO] 正在處理 [page_034] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E7%94%98%E6%B3%89%E5%AF%BA
+2026-10-29 16:37:02,684 [INFO] 成功：甘泉寺 (桃園市) - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:37:03,684 [INFO] 正在處理 [page_035] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E5%BE%A9%E8%88%88%E5%AE%AE
+2026-10-29 16:37:05,527 [INFO] 成功：觀音復興宮 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:37:06,528 [INFO] 正在處理 [page_036] depth=1 extension=True：https://zh.wikipedia.org/w/index.php?title=%E8%A7%80%E9%9F%B3%E6%B0%B8%E8%88%88%E5%AE%AE&action=edit&redlink=1
+2026-10-29 16:37:08,919 [INFO] 成功：创建“觀音永興宮” - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:37:09,920 [INFO] 正在處理 [page_037] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%A7%80%E9%9F%B3%E8%8F%A9%E8%96%A9
+2026-10-29 16:37:20,226 [INFO] 成功：觀世音菩薩 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:37:21,227 [INFO] 正在處理 [page_038] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E8%8D%89%E6%BC%AF
+2026-10-29 16:37:22,883 [INFO] 成功：草漯 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
+2026-10-29 16:37:23,883 [INFO] 正在處理 [page_039] depth=1 extension=True：https://zh.wikipedia.org/wiki/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E8%A7%80%E9%9F%B3%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1
+2026-10-29 16:37:24,757 [INFO] 成功：桃園市立觀音高級中等學校 - 维基百科，自由的百科全书 | depth=1 | 延伸探索=True
